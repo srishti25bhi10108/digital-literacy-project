@@ -1,0 +1,14 @@
+Part B- Prevention checklist
+1.Use strong, unique passwords for all accounts and avoid reusing them
+2. Enable two-factor authentication on important accounts such as email and banking apps 
+3. Always verify the authenticity of links, messages, and websites before interacting with them 
+4. Avoid sharing personal or sensitive information on public platforms 
+5. Do not approve any unknown payment or collect requests on UPI apps 
+6. Never scan QR codes sent by unknown individuals,
+7. Regularly check your bank statements and transaction history for unusual activity
+8. Be cautious of calls or messages claiming to be from banks or customer support
+
+Reporting cybercrime:
+* Report incidents on the National Cyber Crime Portal: https://cybercrime.gov.in 
+* Contact the Cyber Crime Helpline: 1930
+
